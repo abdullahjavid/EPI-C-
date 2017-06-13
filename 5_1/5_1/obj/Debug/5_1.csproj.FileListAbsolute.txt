@@ -1,0 +1,6 @@
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\bin\Debug\5_1.exe.config
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\bin\Debug\5_1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\bin\Debug\5_1.pdb
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\obj\Debug\5_1.csprojResolveAssemblyReference.cache
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\obj\Debug\5_1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\5_1\5_1\obj\Debug\5_1.pdb

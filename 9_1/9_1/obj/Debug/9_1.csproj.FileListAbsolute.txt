@@ -1,0 +1,6 @@
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\obj\Debug\9_1.csprojResolveAssemblyReference.cache
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\bin\Debug\9_1.exe.config
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\bin\Debug\9_1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\bin\Debug\9_1.pdb
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\obj\Debug\9_1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\9_1\9_1\obj\Debug\9_1.pdb

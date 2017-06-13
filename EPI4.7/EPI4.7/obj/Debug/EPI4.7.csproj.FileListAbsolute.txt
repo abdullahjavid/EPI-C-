@@ -1,0 +1,6 @@
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\bin\Debug\EPI4.7.exe.config
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\bin\Debug\EPI4.7.exe
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\bin\Debug\EPI4.7.pdb
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\obj\Debug\EPI4.7.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\obj\Debug\EPI4.7.exe
+C:\Users\Abdullah.Javid\documents\visual studio 2017\Projects\EPI4.7\EPI4.7\obj\Debug\EPI4.7.pdb

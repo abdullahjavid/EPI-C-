@@ -1,0 +1,6 @@
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\bin\Debug\EPI4.1.exe.config
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\bin\Debug\EPI4.1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\bin\Debug\EPI4.1.pdb
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\obj\Debug\EPI4.1.csprojResolveAssemblyReference.cache
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\obj\Debug\EPI4.1.exe
+c:\users\abdullah.javid\documents\visual studio 2017\Projects\EPI4.1\EPI4.1\obj\Debug\EPI4.1.pdb
